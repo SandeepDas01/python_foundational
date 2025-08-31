@@ -1,0 +1,23 @@
+1️⃣ First Occurrence
+
+Question:
+Given an array [5, 8, 3, 8, 9], find the first occurrence index of the target element 8.
+👉 Expected Answer: 1 (because the first 8 is at index 1).
+
+2️⃣ Last Occurrence
+
+Question:
+Given an array [5, 8, 3, 8, 9], find the last occurrence index of the target element 8.
+👉 Expected Answer: 3 (because the last 8 is at index 3).
+
+3️⃣ All Occurrences
+
+Question:
+Given an array [2, 5, 7, 5, 9, 5], find all occurrence indexes of the target element 5.
+👉 Expected Answer: [1, 3, 5].
+
+4️⃣ Condition Based Search
+
+Question:
+Given an array [11, 15, 7, 20, 9], find the index of the first even number.
+👉 Expected Answer: 3 (because the first even number is 20, which is at index 3).
